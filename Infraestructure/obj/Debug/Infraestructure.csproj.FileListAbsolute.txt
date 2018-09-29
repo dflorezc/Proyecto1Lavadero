@@ -1,0 +1,5 @@
+C:\WebFullCar\Proyecto1Lavadero\Infraestructure\bin\Debug\Infraestructure.dll
+C:\WebFullCar\Proyecto1Lavadero\Infraestructure\bin\Debug\Infraestructure.pdb
+C:\WebFullCar\Proyecto1Lavadero\Infraestructure\obj\Debug\Infraestructure.csproj.CoreCompileInputs.cache
+C:\WebFullCar\Proyecto1Lavadero\Infraestructure\obj\Debug\Infraestructure.dll
+C:\WebFullCar\Proyecto1Lavadero\Infraestructure\obj\Debug\Infraestructure.pdb

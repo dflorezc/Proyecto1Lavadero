@@ -1,0 +1,5 @@
+C:\WebFullCar\Proyecto1Lavadero\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\WebFullCar\Proyecto1Lavadero\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\WebFullCar\Proyecto1Lavadero\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\WebFullCar\Proyecto1Lavadero\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\WebFullCar\Proyecto1Lavadero\BusinessLogic\obj\Debug\BusinessLogic.pdb
